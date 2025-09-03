@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ej6</string>
+    <string name="btn_agregar">Agregar</string>
+    <string name="txt_edit_txt">Ingrese su nombre</string>
+    <string name="txt_firebase">Conexion a Firebase</string>
+    <string name="txt_Resultado">Espera un momento...</string>
+</resources>

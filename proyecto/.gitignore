@@ -1,0 +1,25 @@
+#Gradle
+.gradle
+/build
+!app/build
+
+#Android
+local.properties
+*.iml
+.idea/
+*.hprof
+/captures
+.stackdump
+
+#Variabless de entorno
+.env
+config.properties
+
+#archivos del sistema
+.DS_Store
+Thumbs.db
+
+#logs y tmp
+*.log
+tmp/
+*.tmp

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1029402217660",
+    "project_id": "trabajoclaseni",
+    "storage_bucket": "trabajoclaseni.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029402217660:android:a83edcc65d627eab6714b9",
+        "android_client_info": {
+          "package_name": "com.example.ej6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOAZmHioJcqjg4bZpQdNZFYkDuWXlI4ZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
