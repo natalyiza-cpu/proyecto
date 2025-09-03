@@ -1,0 +1,7 @@
+"# notas-sincronizadas" 
+"# notas-sincronizadas by NATALY IZAA" 
+"# notas-sincronizadas" 
+"# notas-sincronizadas by MARIBEL I" 
+"# notas-sincronizadas" 
+"# notas-sincronizadas by MARIBEL I" 
+"# proyecto"  
